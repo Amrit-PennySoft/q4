@@ -1,0 +1,21 @@
+{
+    "releases": [
+    {
+        "headline": "Q4 launches next generation investor targeting driven by AI",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro dolorem asperiores dolorum, at error excepturi facere cu",
+        "date": "2018-07-30T13:54:00.0000000Z",
+        "thumb": "logo.png"
+    },
+    {
+        "headline": "Q4 launches “Pipeline” to automate investor relations deal flow.",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro dolorem asperiores dolorum, at error excepturi facere cu",
+        "date": "2018-07-29T13:54:00.0000000Z",
+        "thumb": "logo.png"
+    },
+    {
+        "headline": "How technology will transform investor relations over the next year",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro dolorem asperiores dolorum, at error excepturi facere cu",
+        "date": "2018-07-28T13:54:00.0000000Z",
+        "thumb": "logo.png"
+    }]
+}
