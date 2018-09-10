@@ -26,7 +26,7 @@ I changed the font style to italic and reduced the font size percentage to 82% t
 
 I added the q4 logo to each release title by changing the path of thumb on the JSON file.
 
-Reducing the news releases - this is where it go a bit sticky i wasn't sure if i was to make changes in the JS code to reurn the most recent items by date, but when i looked at the JSON file the date wasn't giving me any clues to which was the most recent and i was wondering whether if it was something that could even be possible. So after i changed the format of the date on the html i just picked out the 3 most recent and deleted the rest from the JSON file directly ! not sure if that was the right thing to do !
+Reducing the news releases - this is where it go a bit sticky i wasn't sure if i was to make changes in the JS code to reurn the most recent items by date, but when i looked at the JSON file the date wasn't giving me any clues to which was the most recent and i was wondering whether if it was even something i was asked to do the e-mail said HTML and CSS only if i'm not mistaken. So after i changed the format of the date on the html i just picked out the 3 most recent and deleted the rest from the JSON file directly ! not sure if that was the right thing to do !
 
 Another sticky bit shortening the body text ! Now at first i thought i would do something like add a hover effect over the release that displays the rest of the text. But then taking a closer look in the JS file i saw the truncate helper, eventually after adding the truncate expression into various places in the html i managed to make it look like how it does now. But i'm pretty sure it's not right i must be missing something.
 
