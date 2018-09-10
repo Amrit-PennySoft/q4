@@ -6,9 +6,13 @@ Debugging
 HTML errors : 
 
 line 33 - missing closing h2 tag 
+
 line 30 - missing closing p tag
+
 line 37 - moved news section tag to the bottom and included the news script inside the tags.
+
 line 39 - capital P tag instead of normal - not sure if this was a mistake but could be a problem wehn styling in css!
+
 missing HTML tag at the end of document.
 
 Footer :
